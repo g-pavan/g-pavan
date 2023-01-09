@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at **Wipro Limited**
 
-- 🌱 I’m currently learning **Generative Adaptive Neural Networks**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/g-pavan](https://github.com/g-pavan)
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **DSA || C++ || Backend || AWS || SQL || System Design**
 
-- 📫 Reach me at **pavankumar42sn@gmail.com**
+- 📫 Reach me at **pavankumarmasters@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
